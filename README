@@ -3,3 +3,6 @@ A select mező elő van készítve(nap,hét,hónap),a funkció nincs hozzá meg�
 Az adatbázis műveletekről a visszajelzések egyelőre konzol üzenet.
 A feladat megkezdése előtt a kért adatbázisokkal meg kellett ismerkednem,
 mert eddig MySQL-t, és MongoDB-t használtam.
+
+Git elérés:
+https://github.com/Julcsi74/motibro-project.git
